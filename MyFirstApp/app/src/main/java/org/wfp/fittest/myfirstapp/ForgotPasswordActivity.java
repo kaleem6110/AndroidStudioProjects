@@ -39,7 +39,7 @@ public class ForgotPasswordActivity extends AppCompatActivity {
 
                     @Override
                     public void onClick(View v){
-                        finish();
+                        finish(); //goto previous activity
                     }
                 }
 
